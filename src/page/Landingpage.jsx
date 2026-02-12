@@ -31,7 +31,7 @@ export default function LandingPage() {
                 <div>
                 </div>
                 <Text
-                    text={["  We solve real-world problems with smart and scalable solutions.", "  Hire me to transform your ideas into reality.", " I deliver top-tier development with excellence and innovation."]}
+                    text={["We solve real-world problems with smart and scalable solutions.", "Hire me to transform your ideas into reality.", "I deliver top-tier development with excellence and innovation."]}
                     typingSpeed={200}
                     pauseDuration={2000}
                     showCursor
