@@ -31,7 +31,7 @@ export default function LandingPage() {
                 <div>
                 </div>
                 <Text
-                    text={["We solve real-world problems with smart and scalable solutions.", "Hire me to transform your ideas into reality.", "I deliver top-tier development with excellence and innovation."]}
+                    text={["We solve real-world problems with smart and scalable solutions.","Hire me to transform your ideas into reality.", "I deliver top-tier development with excellence and innovation."]}
                     typingSpeed={200}
                     pauseDuration={2000}
                     showCursor
@@ -42,7 +42,7 @@ export default function LandingPage() {
                     variableSpeedMax={120}
                     cursorBlinkDuration={0.5}
                     loop={false}
-                    className="text-white text-5xl font-bold absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2"
+                    className="text-white text-4xl font-bold absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2"
                 />
             </div>
         </div>
